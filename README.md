@@ -29,7 +29,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/ChinaTownBot.git
+git clone https://github.com/sshadowfiend/ChinaTownBot.git
 cd ChinaTownBot
 ```
 2. Установите зависимости
